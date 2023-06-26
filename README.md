@@ -1,4 +1,4 @@
-#Hello there
+
 ### Hi there 👋, Excel Igwe
 #### Data Science using Python
 ![Data Science using Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
