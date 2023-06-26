@@ -3,7 +3,7 @@
 #### Data Science using Python
 
 
-I'm Excel from London and I am currently on a data science BootCamp course learning a variety of technologies such as SQL and Python programming. I currently work in a Network Administrator role but looking to branch to Data science roles.
+I'm Excel from London and I am currently on a data science BootCamp course learning a variety of technologies such as SQL and Python programming.
 
 
 Skills: Python/ AZURE/SQL
