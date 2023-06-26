@@ -12,7 +12,7 @@
 
 
 
-I'm Excel from London and I am currently on a Data Science HyperionDev BootCamp course learning a variety of technologies such as SQL and Python programming.
+I'm Excel from London and I am currently on a Data Science HyperionDev BootCamp course learning a variety of technologies such as SQL and Python programming. Aspiring Data Scientist with a strong desire to solve complex business problems using data-driven insights. 
 
 
 
