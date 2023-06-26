@@ -1,8 +1,8 @@
-![](https://github.com/ECI25/ECI25/blob/main/photo-1556075798-4825dfaaf498.avif)
 
 
 
-### Hi there 👋, Excel Igwe
+
+### Hi there 👋, I'm Excel Igwe
 
 
 
