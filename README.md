@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Excel Igwe
 #### Data Science using Python
-![Data Science using Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm Excel from London and I am currently on a data science BootCamp course learning a variety of technologies such as SQL and Python programming. I currently work in a Network Administrator role but looking to branch to Data science roles.
 
